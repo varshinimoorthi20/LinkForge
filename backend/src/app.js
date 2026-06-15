@@ -24,5 +24,8 @@ app.use("/api/analytics", analyticsRoutes);
 
 // Redirect Route
 app.get("/:shortCode", redirectUrl);
+app.get("/", (req, res) => {
+  res.send("LinkForge API is running");
+});
 
 module.exports = app;
