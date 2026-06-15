@@ -474,7 +474,10 @@ However, all core functionalities including authentication, URL shortening logic
 
 ## Frontend
 
-https://link-forge-puce.vercel.app
+https://link-forge1.vercel.app/
+
+## Backend
+https://linkforge-backend-3ps1.onrender.com
 
 # Demo Video
 
