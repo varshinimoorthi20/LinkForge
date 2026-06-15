@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://linkforge-16ha.onrender.com/api",
+  baseURL: "https://linkforge-backend-3ps1.onrender.com/api",
 });
 
 export default API;
